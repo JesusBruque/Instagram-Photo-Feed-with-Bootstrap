@@ -21,14 +21,6 @@ $ git clone https://github.com/JesusBruque/Instagram-Photo-Feed-with-Bootstrap.g
 
 ![](https://github.com/breatheco-de/exercise-instagram-feed-bootstrap/blob/master/preview.gif)
 
-
-## Instrucciones
-
-Introduce el siguiente comando en la terminal:
-
-```sh
-
-```
 ---------
 Jesús Bruque Guerrero 
 
